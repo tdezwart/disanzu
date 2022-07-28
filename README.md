@@ -1,1 +1,1 @@
-![Disanzu logo](/disanzu/assets/DISANZU.png)
+![Disanzu logo](/disanzu/docs/assets/images/DISANZU.png)
