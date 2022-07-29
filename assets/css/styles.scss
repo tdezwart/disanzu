@@ -2,13 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
-
-header {
-  display: none;
-}
-
 .main-content {
   h1 {
    color: #efcd05;
  }
+}
+
+header {
+  display: none;
 }
